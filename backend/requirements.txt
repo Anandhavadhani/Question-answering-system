@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymupdf
+pdf2image
+paddleocr
+sentence-transformers
+pymongo
+python-dotenv
+# Replace this with the actual Groq client package name when available
+# groq-client
